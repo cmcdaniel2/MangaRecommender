@@ -247,6 +247,3 @@ Recommended next improvements:
 - The raw MangaDex data should be regenerated locally and kept in line with MangaDex API usage rules.
 - `.env` should not be committed.
 
-## License
-
-Add a license before publishing this repository publicly.

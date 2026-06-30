@@ -244,6 +244,3 @@ Recommended next improvements:
 
 - The first sentence-transformer build may download model weights from Hugging Face.
 - On Windows, Hugging Face may warn about symlink caching. The model still works; it may just use more disk space.
-- The raw MangaDex data should be regenerated locally and kept in line with MangaDex API usage rules.
-- `.env` should not be committed.
-
